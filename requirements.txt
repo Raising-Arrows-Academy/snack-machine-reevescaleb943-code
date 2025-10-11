@@ -1,0 +1,10 @@
+# Core Python development dependencies for codespace
+flake8==6.1.0
+autopep8==2.0.4
+pytest==7.4.3
+black==23.9.1
+
+# Optional: Add any specific packages your snack machine demo will need
+# For example:
+# requests==2.31.0
+# numpy==1.24.3
