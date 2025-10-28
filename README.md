@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21205008)
 # Snack Machine Demo
 
 Welcome to the Snack Machine Demo project! This is a Python programming exercise designed to help you learn the basics of Python programming by building a virtual snack machine.
